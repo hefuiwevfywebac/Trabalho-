@@ -1,5 +1,5 @@
 header {
-background-color: blue(1, 1, 59);
+background-color: blue;
 color: white;
 padding: 20px;
 text-align: center;
@@ -17,4 +17,10 @@ padding: 10px;
 text-align: center;
 margin: 0 1.5cm;
 font-size: 14px;
+}
+.imagem-pequena {
+  width: 200px;  /* Define a largura como 200 pixels */
+  height: 150px; /* Define a altura como 150 pixels */
+  /* Cuidado: Se você definir ambas, a imagem pode ficar distorcida.
+     Veja o próximo ponto para a melhor prática! */
 }
