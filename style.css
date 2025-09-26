@@ -1,5 +1,5 @@
 header {
-background-color: darkslategray(1, 1, 59);
+background-color: blue(1, 1, 59);
 color: white;
 padding: 20px;
 text-align: center;
@@ -11,7 +11,7 @@ font-size: 16px;
 color: white;
 }
 footer {
-background-color: darkslategray(1, 1, 59);
+background-color: blue(1, 1, 59);
 color: white;
 padding: 10px;
 text-align: center;
