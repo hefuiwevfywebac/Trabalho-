@@ -11,7 +11,7 @@ font-size: 16px;
 color: white;
 }
 footer {
-background-color: rgb(3, 3, 163);
+background-color: blue(3, 3, 163);
 color: white;
 padding: 10px;
 text-align: center;
