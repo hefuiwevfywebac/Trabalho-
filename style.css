@@ -19,7 +19,7 @@ margin: 0 1.5cm;
 font-size: 14px;
 }
 /* Esta regra agrupa todos os elementos de título e aplica o mesmo estilo */
-h1, h2, h3, h4, h5, h6 {
+    h2, h3, h4, h5, h6 {
     /* Define o mesmo tamanho de fonte para todos os títulos */
     font-size: 24px; 
     
